@@ -36,6 +36,19 @@
     ]
   },
   {
+    "name": "aurora-text",
+    "type": "registry:ui",
+    "dependencies": [
+      "motion"
+    ],
+    "files": [
+      {
+        "path": "magicui/aurora-text.tsx",
+        "type": "registry:ui"
+      }
+    ]
+  },
+  {
     "name": "morphing-text",
     "type": "registry:ui",
     "dependencies": [
